@@ -42,6 +42,7 @@ public class Student {
     
     // setId tidak digunakan lagi, karena id nantinya sudah diinisialisasi pada konstruktor
 
+    
     @Override
     public String toString() {
         return id + "|" + name + "|" + year + "|" + prodi;

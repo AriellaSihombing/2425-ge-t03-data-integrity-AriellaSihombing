@@ -124,5 +124,4 @@ public class Driver2 {
 
         scan.close();
     }
-
 }

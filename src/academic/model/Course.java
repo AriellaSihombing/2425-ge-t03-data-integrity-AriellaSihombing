@@ -46,4 +46,5 @@ public class Course {
     public String toString() {
         return kodeMatkul + "|" + namaMatkul + "|" + kreditSks + "|" + gradeMinimum;
     }
+    
 }

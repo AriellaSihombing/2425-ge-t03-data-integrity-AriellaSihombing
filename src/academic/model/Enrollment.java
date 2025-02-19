@@ -43,5 +43,4 @@ public class Enrollment {
     public String toString() {
         return course.getKodeMatkul() + "|" + student.getId() + "|" + academicYear + "|" + semester + "|" + grade;
     }
-
 }
